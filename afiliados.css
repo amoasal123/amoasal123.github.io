@@ -80,6 +80,6 @@ body {
 }
 .one__2 {
 	padding: 150px 150px;
-	font-size: 6px;
+	font-size: !important 6px;
 }
 
